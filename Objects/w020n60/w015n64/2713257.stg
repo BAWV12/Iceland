@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Airport/kdp_start.ac -14.27562960 64.64107202 0.8369 16.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/building-office.xml -14.27575530 64.64146965 0.7663 16.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/Cessna150.xml -14.27621233 64.64157765 0.9317 280.0 0.0 -0.0
+
